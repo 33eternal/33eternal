@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 • How to use: -Make sure you have roblox installed
               -Download the file "BetterFPS pre 2024"
               -Go into your downloads and right click
+               the file you just installed
               -Extract the file and open the folder
               -Open the file named "BetterFPS"
               -Hit "Install" on the window that pops up
